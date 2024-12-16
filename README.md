@@ -11,8 +11,6 @@
 ![Python](https://img.shields.io/badge/Python-Intermediate-blue?style=for-the-badge&logo=python)
 ![C++](https://img.shields.io/badge/C++-Intermediate-blue?style=for-the-badge&logo=c%2B%2B)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-blue?style=for-the-badge&logo=javascript)
-![Node.js](https://img.shields.io/badge/Node.js-Intermediate-blue?style=for-the-badge&logo=node.js)
-![React](https://img.shields.io/badge/React-Intermediate-blue?style=for-the-badge&logo=react)
 
 ### 🛡️ Cybersecurity Skills
 
