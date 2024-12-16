@@ -1,16 +1,21 @@
-## Hi there 👋
+### Hi there 👋
 
-<!--
-**HiddenUzer/HiddenUzer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+My+Name+is+Xero+aka+Soviet!;Nice+to+see+you...)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername)
+[![GitHub](https://img.shields.io/badge/GitHub-SovietSenpai-blue)](https://github.com/Soviet-Senpai)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-REDACTED-0e76a8)](https://www.linkedin.com/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Skills
+
+![Python](https://img.shields.io/badge/Python-Intermediate-blue?style=for-the-badge&logo=python)
+![C++](https://img.shields.io/badge/C++-Intermediate-blue?style=for-the-badge&logo=c%2B%2B)
+![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-blue?style=for-the-badge&logo=javascript)
+![Node.js](https://img.shields.io/badge/Node.js-Intermediate-blue?style=for-the-badge&logo=node.js)
+![React](https://img.shields.io/badge/React-Intermediate-blue?style=for-the-badge&logo=react)
+
+### 🛡️ Cybersecurity Skills
+
+- Ethical Hacking 🌐
+- Penetration Testing 🔐
+- Network Security 📡
