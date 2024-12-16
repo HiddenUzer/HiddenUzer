@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EB57F7&width=435&lines=Hey+there%2C+welcome+to+my+profile)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70C0C&width=435&lines=welcome+to+my+profile!)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername)
 [![GitHub](https://img.shields.io/badge/GitHub-HiddenUzer-blue)](https://github.com/HiddenUzer)
