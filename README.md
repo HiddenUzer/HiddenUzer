@@ -3,7 +3,7 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EB57F7&width=435&lines=Hey+there%2C+welcome+to+my+profile)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername)
-[![GitHub](https://img.shields.io/badge/GitHub-SovietSenpai-blue)](https://github.com/HiddenUzer)
+[![GitHub](https://img.shields.io/badge/GitHub-HiddenUzer-blue)](https://github.com/HiddenUzer)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-REDACTED-0e76a8)](https://www.linkedin.com/)
 
 ### 🔧 Skills
