@@ -15,5 +15,4 @@
 ### 🛡️ Cybersecurity Skills
 
 - Ethical Hacking 🌐
-- Penetration Testing 🔐
-- Network Security 📡
+- Automation 
