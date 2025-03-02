@@ -12,7 +12,7 @@
 ![C++](https://img.shields.io/badge/C++-Intermediate-blue?style=for-the-badge&logo=c%2B%2B)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-blue?style=for-the-badge&logo=javascript)
 
-### 🛡️ Cybersecurity Skills
+### Other Skills
 
 - Ethical Hacking 🌐
 - Automation 
