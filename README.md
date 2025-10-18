@@ -14,5 +14,5 @@
 
 ### Other Skills
 
-- Ethical Hacking 🌐
+- Game modding
 - Automation 
